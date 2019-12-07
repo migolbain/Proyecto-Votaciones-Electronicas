@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/Email.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/PropuestaDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/CandidatoDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/JornadaVotacion.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/menuAdmin.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/UsuarioControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionCandidatoActualizar.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/CerrarSesion.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/LanzarseCandidatoControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/ReporteNoVotos.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionPropuestas.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/ImagenControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionCandidatoConsultarPropuesta.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/ConteoVotos.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionCandidato.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/ReporteVotosElectoralControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/CandidatosElectos.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/Reporte.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/Voto.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/PerfilControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/UsuarioDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionPropuestasActualizar.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/ReporteNovotosControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/JornadaVotacionControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/PerfilDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/VotoDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/EliminarPropuestaControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/Propuesta.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloVO/JornadaVotacionVO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/index.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/LanzarseCandidato.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/LanzarseCandidatoDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/ReporteJornadaElectoral.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloDAO/JornadaVotacionDAO.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/util/ConexionBD.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionUsuarioActualizar.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/ConteoVotosReportes.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/ReporteEstadovotoJornada.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/Controlador/ReporteControlador.java</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/GestionUsuario.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/web/perfil.jsp</file>
+            <file>file:/E:/Proyecto/Proyecto%20SENA/Proyecto%20V4/Proyecto%20-%20copia/src/java/modeloVO/PerfilVO.java</file>
+        </group>
+    </open-files>
+</project-private>
